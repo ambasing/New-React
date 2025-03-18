@@ -52,15 +52,7 @@
   - **當 `listData` 為空時，顯示 `"暫無備忘錄"`。**  
 
 ---
-
-## 
-
-請確保您已經安裝好所有必要的套件：
-```sh
-npm install
-
-這將同時啟動：
-
-React 開發伺服器 → http://localhost:3000
-API 伺服器 (json-server) → http://localhost:5000/posts
-
+**引入專案後，直接NPM RUN START即可
+- **這將同時啟動:**：  
+  - **React 開發伺服器 → http://localhost:3000** 
+  - **API 伺服器 (json-server) → http://localhost:5000/posts**  
